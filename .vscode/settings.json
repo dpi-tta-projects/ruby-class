@@ -11,5 +11,6 @@
     "Gemfile": true,
     "Gemfile.lock": true,
     "spec": true
-  }
+  },
+  "chat.disableAIFeatures": true
 }
